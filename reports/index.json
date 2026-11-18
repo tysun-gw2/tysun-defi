@@ -36,40 +36,6 @@
         "avgSquadSize": 43,
         "avgEnemySize": 50
       }
-    },
-    {
-      "id": "20261117-201020-7j7r",
-      "title": "Lightspeed Jack",
-      "commanders": [
-        "Lightspeed Jack"
-      ],
-      "guild": {
-        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
-        "name": "Learning The Hard Way",
-        "tag": "FAFO"
-      },
-      "dateStart": "2026-11-18T01:10:20.000Z",
-      "dateEnd": "2026-11-18T02:54:13.636Z",
-      "dateLabel": "11/17/2026, 8:10:20 PM - 11/17/2026, 9:54:13 PM",
-      "url": "https://tysun-gw2.github.io/tysun-defi/?report=20261117-201020-7j7r",
-      "publishedBy": "tysun-gw2",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 16,
-            "color": "#ffffff"
-          },
-          {
-            "name": "World vs World",
-            "value": 2,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 39,
-        "avgEnemySize": 46
-      }
     }
   ]
 }
